@@ -77,7 +77,8 @@ swiggy-sales-analysis/
 ├── README.md
 ├── data/
 │   ├── raw/Swiggy_Data.csv          # original file (add it yourself, see "Data")
-│   └── analytics/                   # created by the notebook
+│   ├── analytics/                   # created by the notebook
+|   └── forecasts/                   # forecast data
 ├── sql/
 │   ├── 00_setup_and_import.sql
 │   ├── 01_data_cleaning.sql
@@ -142,6 +143,8 @@ After downloading place files inside:
 data/raw/
 
 data/analytics/
+
+data/forecasts/
 
 ---
 
@@ -218,7 +221,7 @@ Download here:
 Place them in:
 
 ```
-analytics/
+forecasts/
 ```
 
 ---
