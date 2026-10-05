@@ -4,7 +4,7 @@ An end-to-end analytics project on Swiggy food-delivery data: cleaning and model
 
 ![Dashboard cover](images/home_navigation.png)
 
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![DataAnalysis](https://img.shields.io/badge/Data%20Analysis-Forecasting-purple)
