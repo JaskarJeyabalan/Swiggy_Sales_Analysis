@@ -53,7 +53,7 @@ An end-to-end analytics project on Swiggy food-delivery data: cleaning and model
 
 | | |
 |---|---|
-| ![Business overview](images/business_overview.png) | ![Menu and cuisine](images/food_cuisine_insights.png) |
+| ![Business overview](images/business_overview.png) | ![Food and cuisine](images/food_cuisine_insights.png) |
 | Business overview | Menu and cuisine insights |
 | ![Geography](images/geographic_performance.png) | ![Restaurants](images/restaurant_performance.png) |
 | Geographic performance | Restaurant performance |
