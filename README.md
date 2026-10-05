@@ -218,7 +218,7 @@ Download here:
 Place them in:
 
 ```
-forecasts/
+analytics/
 ```
 
 ---
