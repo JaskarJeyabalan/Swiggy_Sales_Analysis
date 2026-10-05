@@ -104,8 +104,6 @@ Clone the repository
 
 [Click here for Git Clone](https://github.com/JaskarJeyabalan/Swiggy_Sales_Analysis.git)
 
-cd Swiggy_Sales_Analysis
-
 Install dependencies
 
 pip install -r requirements.txt
@@ -113,10 +111,6 @@ pip install -r requirements.txt
 Run forecasting script
 
 jupyter notebook notebooks/swiggy_analysis.ipynb
-
-git add requirements.txt .gitignore README.md FINAL_REPORT.md
-git commit -m "Add requirements, gitignore, updated README and report"
-git push
 
 ---
 
